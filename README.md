@@ -1,2 +1,2 @@
 # online_shop
-online shop
+Тестовый проект online магазина 

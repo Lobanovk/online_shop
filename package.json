@@ -1,0 +1,20 @@
+{
+  "name": "online_shop",
+  "version": "1.0.0",
+  "description": "Тестовый проект online магазина",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lobanovk/online_shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lobanovk/online_shop/issues"
+  },
+  "homepage": "https://github.com/Lobanovk/online_shop#readme"
+}
